@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung 27''  Monitor",
+    "price": 5500,
+    "description": " Full HD, ",
+    "image": "assets/img/monitor1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "LG 24'' IPS Monitor",
+    "price": 4200,
+    "description": "24-inch IPS panel, accurate colors, 1080p resolution.",
+    "image": "assets/img/monitor2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "AOC Gaming Monitor 32''",
+    "price": 7200,
+    "description": "32-inch",
+    "image": "assets/img/monitor3.jpg"
+  }
+]

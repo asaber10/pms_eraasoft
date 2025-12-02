@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ahmed Saber",
+        "email": "ahmedlord39@gmail.com",
+        "password": "$2y$10$bACZlhmlmQbg8yuqj240G.Sz1FbN6TYAf8gjjil5I095XywZxP8VC"
+    },
+    {
+        "name": "\u0627\u0633\u0645\u0627\u0621 \u0627\u0634\u0631\u0641",
+        "email": "asmaa@gmail.com",
+        "password": "$2y$10$pYi2BhpT8syvaHDf.Hbmk.Cb1uQnr7uAhD6zENBYWsKyv72kSEfk6"
+    },
+    {
+        "name": "mohamed",
+        "email": "ahmed@gmail.com",
+        "password": "$2y$10$SYwlCu5I1UVVo51J3Du5Pe0swiP8rw\/JzmXrdsMgqje4fSaFaUnka"
+    },
+    {
+        "name": "Ahmedali",
+        "email": "ali@gmail.com",
+        "password": "$2y$10$99uG8YvmDwn3MEPnsBWEPupsZYZboQL5HB.dXJIWojmZOM0I9.ugm"
+    }
+]
